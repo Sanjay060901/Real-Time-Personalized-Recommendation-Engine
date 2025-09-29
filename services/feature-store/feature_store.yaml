@@ -1,0 +1,3 @@
+project: recommender_demo
+registry: data/registry.db
+provider: local
