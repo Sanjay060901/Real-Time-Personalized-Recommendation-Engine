@@ -1,0 +1,17 @@
+confluent-kafka
+pyspark==3.3.2
+delta-spark==2.2.0
+fastapi
+uvicorn[standard]
+redis
+pandas
+scikit-learn
+feast
+sqlalchemy
+psycopg2-binary
+mlflow
+click
+python-dotenv
+
+
+Note: Versions chosen for local compatibility — for production use managed services (Databricks, AWS MSK, Elasticache, Sagemaker).
