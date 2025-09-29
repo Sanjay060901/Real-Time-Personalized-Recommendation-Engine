@@ -1,16 +1,15 @@
-confluent-kafka
-pyspark==3.3.2
-delta-spark==2.2.0
 fastapi
 uvicorn[standard]
-redis
+kafka-python
+pyspark==3.3.2
 pandas
 scikit-learn
 feast
-sqlalchemy
+redis
+boto3
+pyyaml
 psycopg2-binary
-mlflow
-click
+aiohttp
 python-dotenv
 
 
